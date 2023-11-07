@@ -1,0 +1,6 @@
+4. Write a short note on Tag and element with an example.
+
+Answer :  As part of an HTML element, HTML tags help web browsers convert HTML documents into web pages. 
+For example : the <p> tag is used to organize text content into paragraph elements .
+Elements Is Nothing but the combination between html tag and containt
+For Example : <h1> Hellp </h1>  [<tag> Contain <tag>]
